@@ -2,6 +2,10 @@
 
 [![npm](https://img.shields.io/npm/v/koishi-plugin-level?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-level)
 
+## 1.1新功能：签到
+ - 每次签到获得25-50任意经验值，直接加入账户
+ - 每两次签到之间间隔18小时
+
 ## 这是一个等级插件。在有机器人的群聊中发言，发言数量越多经验值越多，等级越高
 ## 发送"个人信息"查看当前等级和经验值情况
 ### 加分方法：
