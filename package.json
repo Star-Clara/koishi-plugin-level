@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-level",
   "description": "✨这是一个等级插件。⚠️看Readme⚠️在有机器人的群聊中发言，发言数量越多经验值越多，等级越高",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
